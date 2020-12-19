@@ -1,0 +1,10 @@
+CREATE TABLE NoPrimaryKey(
+    ID INT,
+    SCORE INT
+)
+
+INSERT INTO NoPrimaryKey
+VALUES
+(666,100),
+(666,100),
+(666,100)
